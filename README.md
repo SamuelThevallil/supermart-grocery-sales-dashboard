@@ -54,8 +54,5 @@ This project was completed as part of the **Sapphire IQ Data Analytics Internshi
 ## Tools & Technologies Used
 * **Microsoft Excel:** Data Cleaning, Pivot Tables, Formulas (`SUMIFS`, `AVERAGEIFS`), Custom Formatting, Dashboard Layout.
 * **GitHub:** Portfolio Hosting & Documentation.
-
----
-├── Supermart Grocery Sales [Solutions and Dashboards].xlsx   # Excel Workbook with Solutions & Dashboards
 ├── Sapphire IQ Supermart Grocery Sales Dashboard.pdf         # Project Requirements & Context
 └── README.md                                                 # Executive Summary & Analysi
