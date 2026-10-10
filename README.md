@@ -1,4 +1,4 @@
-# supermart-grocery-sales-dashboard
+# Supermart-grocery-sales-dashboard
 Interactive Excel Sales &amp; Profitability Dashboard for Supermart Grocery Sales
 
 # Supermart Grocery Sales — Executive Performance Dashboard
